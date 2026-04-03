@@ -1,6 +1,6 @@
 # 🏥Hospital Ward Allocation System
 
-# 📌 Use Case
+## 📌 Use Case
 
 This project simulates a simple hospital scenario where patients are assigned to wards based on their condition.
 
@@ -9,7 +9,7 @@ This project simulates a simple hospital scenario where patients are assigned to
 * Bed count is updated automatically during assignment and deletion
 
 ---
-# 🚀 What I Built
+## 🚀 What I Built
 
 * Connected MySQL with Spring Boot using IntelliJ
 * Created REST APIs for basic CRUD operations
@@ -18,7 +18,7 @@ This project simulates a simple hospital scenario where patients are assigned to
 
 ---
 
-# 🔗 APIs
+## 🔗 APIs
 
 * POST `/api/patients/assign` → Assign patient to ward
 * GET `/api/patients/all` → View all patients
@@ -27,7 +27,7 @@ This project simulates a simple hospital scenario where patients are assigned to
 
 ---
 
-# 🎯 Goal
+## 🎯 Goal
 
 To understand:
 
